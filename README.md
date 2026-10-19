@@ -63,17 +63,6 @@ After preparing the data, loaded it into MySQL and wrote queries to answer quest
 
 These findings describe patterns in this dataset. They do not prove that any single factor directly causes higher or lower scores.
 
-## Conclusion
-
-This project helped me practice the full data analysis workflow, from preparing data to sharing insights. The main findings were:
-
-1. **Performance varies across groups:** Student results differ by gender, lunch type, ethnicity group, and parents' education level.
-2. **Test preparation matters in the data:** Students who completed the course generally achieved better results than those who did not.
-3. **Standard lunch group scored higher overall:** This group had a higher median percentage and a larger share of Good and Excellent performers.
-4. **Some groups have more high performers:** Group E and students whose parents have a master's degree showed stronger results on selected performance measures.
-5. **Subject-level analysis gives more detail:** Comparing Math, Reading, and Writing separately helped highlight where students performed better or needed more support.
-
-Overall, this project gave me hands-on experience with Python, EDA, SQL, and Power BI, and showed how data can be used to understand student performance and identify areas for further study.
 
 ## Repository Structure
 
