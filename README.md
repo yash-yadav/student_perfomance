@@ -68,7 +68,7 @@ These findings describe patterns in this dataset. They do not prove that any sin
 
 ```text
 Student-Performance-Analysis/
-├── data/                 # Dataset StudentsPerformance is raw data and final_student data after cleaning and feature eng  
+├── data/                 # Dataset (StudentsPerformance is raw data and final_student data after cleaning and feature eng)  
 ├── Python/            # Python cleaning and EDA notebook(s)
 ├── SQL/                  # SQL analysis queries
 ├── Power Bi/              # Power BI dashboard file
