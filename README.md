@@ -79,7 +79,7 @@ Overall, this project gave me hands-on experience with Python, EDA, SQL, and Pow
 
 ```text
 Student-Performance-Analysis/
-├── data/                 # Dataset (if included)
+├── data/                 # Dataset StudentsPerformance is raw data and final_student data after cleaning and feature eng  
 ├── Python/            # Python cleaning and EDA notebook(s)
 ├── SQL/                  # SQL analysis queries
 ├── Power Bi/              # Power BI dashboard file
